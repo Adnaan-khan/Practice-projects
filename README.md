@@ -158,14 +158,20 @@ Overall Accuracy: 93.5%
 
 ---
 
-## Author
+## About Me
 
-**Mohd Adnaan Khan**  
-MS Health Data Science  
-Saint Louis University
+Developed by **Mohd Adnaan Khan**  
+MS Health Data Science | Saint Louis University  
 
-GitHub: https://github.com/Adnaan-khan
+### Connect With Me
 
+🔗 LinkedIn:  
+https://www.linkedin.com/in/mohd-adnaan-khan-147b681a9/
+
+💻 GitHub:  
+https://github.com/Adnaan-khan
+
+### Project Outcome
+
+This project demonstrates practical application of machine learning in healthcare and highlights skills in data preprocessing, exploratory analysis, predictive modeling, and healthcare analytics.
 ---
-
-⭐ If you found this project interesting, feel free to star the repository.
